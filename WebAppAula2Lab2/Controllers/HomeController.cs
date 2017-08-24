@@ -10,6 +10,8 @@ namespace WebAppAula2Lab2.Controllers
     {
         public ActionResult Index()
         {
+
+            // implementar acesso a dados
             return View();
         }
 

@@ -12,6 +12,8 @@ using WebAppAula2Lab2.Models;
 
 namespace WebAppAula2Lab2.Controllers
 {
+
+    // joga 10
     [Authorize]
     public class AccountController : Controller
     {
